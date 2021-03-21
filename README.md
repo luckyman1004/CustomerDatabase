@@ -1,7 +1,7 @@
 # Overview
 I created a simple customer database that would allow for a company to keep track of basic customer information within a SQL database. Using C#, Microsoft .NET Frameworks and Windows Forms, I incorporated a simple user interface that would simplify and facilitate the process. For a full demonstration of the software, please visit the link down below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qhkvpjBBuxM)
 
 # Development Environment
 
