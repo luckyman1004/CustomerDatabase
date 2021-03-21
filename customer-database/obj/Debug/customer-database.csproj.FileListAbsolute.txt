@@ -1,0 +1,12 @@
+C:\Users\caden\source\repos\customer-database\customer-database\bin\Debug\customer-database.exe.config
+C:\Users\caden\source\repos\customer-database\customer-database\bin\Debug\customer-database.exe
+C:\Users\caden\source\repos\customer-database\customer-database\bin\Debug\customer-database.pdb
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer-database.csprojAssemblyReference.cache
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer_database.Properties.Resources.resources
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer-database.csproj.GenerateResource.cache
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer-database.csproj.CoreCompileInputs.cache
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer-database.exe
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer-database.pdb
+C:\Users\caden\source\repos\customer-database\customer-database\obj\Debug\customer_database.Form1.resources
+C:\Users\caden\source\repos\customer-database\customer-database\bin\Debug\Local.mdf
+C:\Users\caden\source\repos\customer-database\customer-database\bin\Debug\Local_log.ldf
